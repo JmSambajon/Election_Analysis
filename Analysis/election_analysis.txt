@@ -1,6 +1,5 @@
-Hello World
-Counties in the Election
-----------------------------
-Arapahoe
-Denver
-Jefferson
+
+Election Results
+-------------------------
+Total Votes: 1
+-------------------------
