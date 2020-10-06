@@ -18,28 +18,28 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Software: Python 3.7.6, Visual Studio Code, 1.49.3
 
 ## Election-Audit Results
-The analysisoof the election show that:
+The analysis of the election show that:
 - There were 369,711 votes cast in the election.
 - The candidates were:
   - Charles Casper Stockham
   - Diana DeGette
   - Raymon Anthony Doane
 - The camdidate results were:
-  - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
-  - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
-  - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+  - Charles Casper Stockham received 23.0% of the vote with 85,213 votes.
+  - Diana DeGette received 73.8% of the vote with 272,892 votes.
+  - Raymon Anthony Doane received 3.1% of the vote 11,606 votes.
 - The winner of the election was:
-  - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+  - Diana DeGette received 73.8% of the vote with 272,892 votes.
 - The voters are from the following counties:
-  - Jefferson
-  - Denver
-  - Arapahoe
+  - Jefferson County
+  - Denver County
+  - Arapahoe County
 - The voter breakdown by county was:
-  - Jefferson county cast 10.5% of the vote and 38,855 number of votes.
-  - Denver county cast 82.8% of the vote and 306,055 number of votes.
-  - Arapahoe county cast 6.7% of the vote and 24,801 number of votes.
+  - Jefferson county cast 10.5% of the vote with 38,855 votes.
+  - Denver county cast 82.8% of the vote with 306,055 votes.
+  - Arapahoe county cast 6.7% of the vote with 24,801 votes.
 - The Largest county voter turnout:
-  - Denver county cast 82.8% of the vote and 306,055 number of votes.
+  - Denver county cast 82.8% of the vote with 306,055 votes
   
 ## Election - Audit Summary
-This scipt can be used for any election. This script can capture any metric with slight modification
+This scipt can be used for any future election. While this specific code provided information on winning candidates and voter turnout by county, the scipt can be modifed to can capture other election datafields and determine election results like the outcome of a proposed bill for example or more in depth voter demographic information like age and gender. In addition to capturing different datafields, we can modify the output to give us a different resutls message.
